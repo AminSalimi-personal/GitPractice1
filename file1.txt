@@ -2,3 +2,4 @@ Amin
 Another change in the master branch.
 feature1 -> 1
 feature1 -> 2
+master -> new1
