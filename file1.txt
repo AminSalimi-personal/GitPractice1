@@ -5,3 +5,5 @@ feature1 -> 2
 feature1 -> 3
 master -> new1
 master -> new2
+master -> new3
+
